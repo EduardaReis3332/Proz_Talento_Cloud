@@ -10,7 +10,7 @@ def verificar_categoria_habilitacao(quantidade_rodas, peso_bruto, quantidade_pes
     else:
         return "Categoria C"
 
-def main():
+def categoria():
     try:
         quantidade_rodas = int(input("Digite a quantidade de rodas do veículo: "))
         peso_bruto = float(input("Digite o peso bruto do veículo em quilogramas: "))
@@ -21,5 +21,4 @@ def main():
     except ValueError:
         print("Por favor, digite valores válidos para a quantidade de rodas, peso bruto e quantidade de pessoas.")
 
-if __name__ == "__main__":
-    main()
+categoria()
