@@ -6,3 +6,4 @@ git commit -m "Arquivo aula_git.txt criado"
 git branch(comando para verificar quantas branchs existem e qual branch estamos localozado)
 git branch nova_branch(comando para criar nova branch)
 git checkout nova_branch(acessar a branch desejada, colocando o nome dela)
+git branch -D nova_branch(exclui a branch, colocando o nome dela)
