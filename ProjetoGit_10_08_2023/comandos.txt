@@ -7,3 +7,6 @@ git branch(comando para verificar quantas branchs existem e qual branch estamos 
 git branch nova_branch(comando para criar nova branch)
 git checkout nova_branch(acessar a branch desejada, colocando o nome dela)
 git branch -D nova_branch(exclui a branch, colocando o nome dela)
+git checkout main(voltar para a branch main)
+git merge nova_branch(uni os arquivos da nova_branch para o main)
+
