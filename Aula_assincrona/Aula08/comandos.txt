@@ -3,3 +3,5 @@ git config user.name NOME
 git config user.email EMAIL
 git add --all, git -A, git add .(os três comandos adicionam todos os arquivos)
 git commit -m "descrição do commit"
+git branch NOME-DA-BRANCH
+git checkout NOME-DA-BRANCH
