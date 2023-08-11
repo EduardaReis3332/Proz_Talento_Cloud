@@ -1,1 +1,1 @@
-Frase escrita para o primeiro commit.
+Frase escrita antes do merge.
